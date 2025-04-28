@@ -1,0 +1,7 @@
+
+git init
+git remote add origin <repository-URL>
+git add <file-name>         # To stage specific files
+git add .                   # To stage all files in the directory
+git commit -m "Your commit message"
+git push -u origin <branch>
